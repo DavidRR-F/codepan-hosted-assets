@@ -1,0 +1,125 @@
+<svg
+  id="e8jq9rDX4cL1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 300 300"
+  shape-rendering="geometricPrecision"
+  text-rendering="geometricPrecision"
+  width="300"
+  height="300"
+>
+  <style>
+    .crop-svg {
+      width: 100px;
+      height: 100px;
+      overflow: hidden;
+    }
+  </style>
+  <g class="crop-svg">
+    <ellipse
+      rx="28.729839"
+      ry="28.477823"
+      transform="translate(227.872984 28.477823)"
+      fill="#d2dbed"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="24.571573"
+      ry="24.193548"
+      transform="translate(199.143145 53.225807)"
+      fill="#d2dbed"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="25.201613"
+      ry="23.4375"
+      transform="translate(106.653226 82.333652)"
+      fill="#d2dbed"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="28.351815"
+      ry="28.225807"
+      transform="translate(166.25504 65.574584)"
+      fill="#d2dbed"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="31.691028"
+      ry="32.258064"
+      transform="translate(27.331149 104.133064)"
+      fill="#d2dbed"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="27.721774"
+      ry="31.502016"
+      transform="matrix(1.236364 0 0 1.032 241.985887 44.909274)"
+      fill="#fff"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="23.941532"
+      ry="26.461693"
+      transform="matrix(1 0 0 0.828571 70.362904 93.800391)"
+      fill="#d2dbed"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="19.405242"
+      ry="23.563508"
+      transform="matrix(1 0 0 0.786097 137.903225 77.419355)"
+      fill="#d2dbed"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="33.486644"
+      ry="32.006049"
+      transform="translate(116.513356 109.425404)"
+      fill="#fff"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="34.52621"
+      ry="33.014113"
+      transform="translate(70.362904 122.278213)"
+      fill="#fff"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="34.778226"
+      ry="34.778227"
+      transform="translate(27.331149 117.111879)"
+      fill="#fff"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="27.217743"
+      ry="27.217742"
+      transform="translate(219.304435 68.724816)"
+      fill="#fff"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="25.201613"
+      ry="23.689516"
+      transform="translate(186.542339 89.2641)"
+      fill="#fff"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="25.170111"
+      ry="22.681452"
+      transform="translate(157.02495 104.133064)"
+      fill="#fff"
+      stroke-width="0"
+    />
+    <ellipse
+      rx="29.170867"
+      ry="28.729839"
+      transform="translate(232.472278 84.223777)"
+      fill="#fff"
+      stroke-width="0"
+    />
+  </g>
+</svg>
