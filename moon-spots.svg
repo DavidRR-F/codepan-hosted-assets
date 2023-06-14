@@ -1,0 +1,162 @@
+<svg
+  id="eHoLPc1yF6z1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 80 80"
+  shape-rendering="geometricPrecision"
+  text-rendering="geometricPrecision"
+>
+  <defs>
+    <filter
+      id="eHoLPc1yF6z2-filter"
+      x="-150%"
+      width="400%"
+      y="-150%"
+      height="400%"
+    >
+      <feGaussianBlur
+        id="eHoLPc1yF6z2-filter-drop-shadow-0-blur"
+        in="SourceAlpha"
+        stdDeviation="1,1"
+      />
+      <feOffset
+        id="eHoLPc1yF6z2-filter-drop-shadow-0-offset"
+        dx="0"
+        dy="0"
+        result="tmp"
+      />
+      <feFlood
+        id="eHoLPc1yF6z2-filter-drop-shadow-0-flood"
+        flood-color="#5b5c61"
+      />
+      <feComposite
+        id="eHoLPc1yF6z2-filter-drop-shadow-0-composite"
+        operator="in"
+        in2="tmp"
+      />
+      <feMerge id="eHoLPc1yF6z2-filter-drop-shadow-0-merge" result="result">
+        <feMergeNode id="eHoLPc1yF6z2-filter-drop-shadow-0-merge-node-1" />
+        <feMergeNode
+          id="eHoLPc1yF6z2-filter-drop-shadow-0-merge-node-2"
+          in="SourceGraphic"
+        />
+      </feMerge>
+      <feComponentTransfer id="eHoLPc1yF6z2-filter-invert-0" result="result">
+        <feFuncR
+          id="eHoLPc1yF6z2-filter-invert-0-R"
+          type="table"
+          tableValues="0 1"
+        />
+        <feFuncG
+          id="eHoLPc1yF6z2-filter-invert-0-G"
+          type="table"
+          tableValues="0 1"
+        />
+        <feFuncB
+          id="eHoLPc1yF6z2-filter-invert-0-B"
+          type="table"
+          tableValues="0 1"
+        />
+      </feComponentTransfer>
+      <feGaussianBlur
+        id="eHoLPc1yF6z2-filter-blur-0"
+        stdDeviation="0,0"
+        result="result"
+      />
+    </filter>
+    <filter
+      id="eHoLPc1yF6z3-filter"
+      x="-150%"
+      width="400%"
+      y="-150%"
+      height="400%"
+    >
+      <feGaussianBlur
+        id="eHoLPc1yF6z3-filter-drop-shadow-0-blur"
+        in="SourceAlpha"
+        stdDeviation="1,1"
+      />
+      <feOffset
+        id="eHoLPc1yF6z3-filter-drop-shadow-0-offset"
+        dx="0"
+        dy="0"
+        result="tmp"
+      />
+      <feFlood
+        id="eHoLPc1yF6z3-filter-drop-shadow-0-flood"
+        flood-color="#5b5c61"
+      />
+      <feComposite
+        id="eHoLPc1yF6z3-filter-drop-shadow-0-composite"
+        operator="in"
+        in2="tmp"
+      />
+      <feMerge id="eHoLPc1yF6z3-filter-drop-shadow-0-merge" result="result">
+        <feMergeNode id="eHoLPc1yF6z3-filter-drop-shadow-0-merge-node-1" />
+        <feMergeNode
+          id="eHoLPc1yF6z3-filter-drop-shadow-0-merge-node-2"
+          in="SourceGraphic"
+        />
+      </feMerge>
+    </filter>
+    <filter
+      id="eHoLPc1yF6z4-filter"
+      x="-150%"
+      width="400%"
+      y="-150%"
+      height="400%"
+    >
+      <feGaussianBlur
+        id="eHoLPc1yF6z4-filter-drop-shadow-0-blur"
+        in="SourceAlpha"
+        stdDeviation="1,1"
+      />
+      <feOffset
+        id="eHoLPc1yF6z4-filter-drop-shadow-0-offset"
+        dx="0"
+        dy="0"
+        result="tmp"
+      />
+      <feFlood
+        id="eHoLPc1yF6z4-filter-drop-shadow-0-flood"
+        flood-color="#5b5c61"
+      />
+      <feComposite
+        id="eHoLPc1yF6z4-filter-drop-shadow-0-composite"
+        operator="in"
+        in2="tmp"
+      />
+      <feMerge id="eHoLPc1yF6z4-filter-drop-shadow-0-merge" result="result">
+        <feMergeNode id="eHoLPc1yF6z4-filter-drop-shadow-0-merge-node-1" />
+        <feMergeNode
+          id="eHoLPc1yF6z4-filter-drop-shadow-0-merge-node-2"
+          in="SourceGraphic"
+        />
+      </feMerge>
+    </filter>
+  </defs>
+  <ellipse
+    rx="9.28584"
+    ry="8.849902"
+    transform="matrix(1.603062 0 0 1.695802 25.114223 50.024501)"
+    filter="url(#eHoLPc1yF6z2-filter)"
+    fill="#bec0c5"
+    fill-rule="evenodd"
+  />
+  <ellipse
+    rx="8.257981"
+    ry="8.506114"
+    transform="translate(33.372204 16.728691)"
+    filter="url(#eHoLPc1yF6z3-filter)"
+    fill="#bec0c5"
+    stroke-width="0"
+  />
+  <ellipse
+    rx="8"
+    ry="8"
+    transform="translate(58.561757 58.147075)"
+    filter="url(#eHoLPc1yF6z4-filter)"
+    fill="#bec0c5"
+    stroke-width="0"
+  />
+</svg>
